@@ -2,7 +2,7 @@
 
  Eu sou フェルナンド/japa/fernando yoshio shimoda kato, sou estudante do info1 tenho 16 anos, faço aniversário 07/07, gosto de comer parmegiana de frango, eu moro com meus pais👪, minha irmã mais nova👧 e dois gatos🐱
 
- ## HOBBY
+## HOBBY
  
  O IF e um otimo campus pois existe uma grande diversidade de esportes e atividades, e a que eu mais pratico e o vôlei com a professora Mariana de educação fisica, os treinos normalmente são nas segundas, quartas e sextas.
  
