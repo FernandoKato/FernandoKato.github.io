@@ -8,9 +8,9 @@
 
 dias de treino
 **treino**|**dias**
-------|----
-saque | segunda
-block | quarta
+:---------:|:-------:
+saque    | segunda
+block    | quarta
 recepção | sexta
 
  > Os dias e os treinos não são fixos, mas na grande maioria são esses os dias 
