@@ -6,12 +6,12 @@
  
  O IF e um otimo campus pois existe uma grande diversidade de esportes e atividades, e a que eu mais pratico e o vôlei com a professora Mariana de educação fisica
 
- dias de treino
- **treino**|**dias**
- ------|----
- saque | segunda
- block | quarta
- recepção | sexta
+dias de treino
+**treino**|**dias**
+------|----
+saque | segunda
+block | quarta
+recepção | sexta
 
  > Os dias e os treinos não são fixos, mas na grande maioria são esses os dias 
  
