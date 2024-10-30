@@ -4,7 +4,16 @@
 
 ## HOBBY
  
- O IF e um otimo campus pois existe uma grande diversidade de esportes e atividades, e a que eu mais pratico e o vôlei com a professora Mariana de educação fisica, os treinos normalmente são nas segundas, quartas e sextas.
+ O IF e um otimo campus pois existe uma grande diversidade de esportes e atividades, e a que eu mais pratico e o vôlei com a professora Mariana de educação fisica
+
+ dias de treino
+ **treino**|**dias**
+ ------|----
+ saque | segunda
+ block | quarta
+ recepção | sexta
+
+ > Os dias e os treinos não são fixos, mas na grande maioria são esses os dias 
  
  ![image](https://github.com/user-attachments/assets/8fd323df-121f-470c-a7e3-42fb591d3722)
 
@@ -18,6 +27,11 @@
 7. As 19:00 eu vou jantar
 8. As 20:00 eu vou tomar banho
 9. As 22:00 eu vou dormi
-    
+      
+
+
+
+
+
 
 
